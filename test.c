@@ -2,5 +2,5 @@
 
 int main(){
 	printf("I am learning git");
-	printf("this is featur1");
+	printf("this is feature1");
 }
